@@ -1,4 +1,4 @@
-# JS-Object extend
+# JS-ObjectExtend
 
 This is a small function for extending an object though inheritance. Copyied from Juan Mendes StackOverflow answer.
 
